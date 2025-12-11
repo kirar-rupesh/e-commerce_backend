@@ -1,0 +1,272 @@
+[
+  {
+    "productId": "prd001",
+    "name": "Smartphone X",
+    "image": "https://placehold.co/180x120?text=Smartphone+X",
+    "price": 799,
+    "rating": 4.6,
+    "category": "Electronics",
+    "categoryId": "cat001"
+  }, 
+  {
+    "productId": "prd002",
+    "name": "Wireless Headphones",
+    "image": "https://placehold.co/180x120?text=Wireless+Headphones",
+    "price": 199,
+    "rating": 4.2,
+    "category": "Electronics",
+    "categoryId": "cat001"
+  },
+  {
+    "productId": "prd003",
+    "name": "Laptop Pro",
+    "image": "https://placehold.co/180x120?text=Laptop+Pro",
+    "price": 1299,
+    "rating": 4.8,
+    "category": "Electronics",
+    "categoryId": "cat001"
+  },
+  {
+    "productId": "prd004",
+    "name": "Bluetooth Speaker",
+    "image": "https://placehold.co/180x120?text=Bluetooth+Speaker",
+    "price": 89,
+    "rating": 4.0,
+    "category": "Electronics",
+    "categoryId": "cat001"
+  },
+  {
+    "productId": "prd005",
+    "name": "Smart Watch",
+    "image": "https://placehold.co/180x120?text=Smart+Watch",
+    "price": 299,
+    "rating": 4.3,
+    "category": "Electronics",
+    "categoryId": "cat001"
+  },
+  {
+    "productId": "prd006",
+    "name": "Novel: The Journey",
+    "image": "https://placehold.co/180x120?text=The+Journey",
+    "price": 15,
+    "rating": 4.7,
+    "category": "Books",
+    "categoryId": "cat002"
+  },
+  {
+    "productId": "prd007",
+    "name": "Cookbook: Tasty Meals",
+    "image": "https://placehold.co/180x120?text=Tasty+Meals",
+    "price": 25,
+    "rating": 4.5,
+    "category": "Books",
+    "categoryId": "cat002"
+  },
+  {
+    "productId": "prd008",
+    "name": "Biography: Steve Win",
+    "image": "https://placehold.co/180x120?text=Steve+Win",
+    "price": 18,
+    "rating": 4.9,
+    "category": "Books",
+    "categoryId": "cat002"
+  },
+  {
+    "productId": "prd009",
+    "name": "Children's Tale",
+    "image": "https://placehold.co/180x120?text=Children's+Tale",
+    "price": 8,
+    "rating": 4.1,
+    "category": "Books",
+    "categoryId": "cat002"
+  },
+  {
+    "productId": "prd010",
+    "name": "Science Textbook",
+    "image": "https://placehold.co/180x120?text=Science+Textbook",
+    "price": 22,
+    "rating": 4.3,
+    "category": "Books",
+    "categoryId": "cat002"
+  },
+  {
+    "productId": "prd011",
+    "name": "Vacuum Cleaner",
+    "image": "https://placehold.co/180x120?text=Vacuum+Cleaner",
+    "price": 120,
+    "rating": 4.5,
+    "category": "Home Appliances",
+    "categoryId": "cat003"
+  },
+  {
+    "productId": "prd012",
+    "name": "Air Conditioner",
+    "image": "https://placehold.co/180x120?text=Air+Conditioner",
+    "price": 450,
+    "rating": 4.2,
+    "category": "Home Appliances",
+    "categoryId": "cat003"
+  },
+  {
+    "productId": "prd013",
+    "name": "Water Purifier",
+    "image": "https://placehold.co/180x120?text=Water+Purifier",
+    "price": 175,
+    "rating": 4.6,
+    "category": "Home Appliances",
+    "categoryId": "cat003"
+  },
+  {
+    "productId": "prd014",
+    "name": "Electric Kettle",
+    "image": "https://placehold.co/180x120?text=Electric+Kettle",
+    "price": 30,
+    "rating": 4.1,
+    "category": "Home Appliances",
+    "categoryId": "cat003"
+  },
+  {
+    "productId": "prd015",
+    "name": "Refrigerator",
+    "image": "https://placehold.co/180x120?text=Refrigerator",
+    "price": 900,
+    "rating": 4.7,
+    "category": "Home Appliances",
+    "categoryId": "cat003"
+  },
+  {
+    "productId": "prd016",
+    "name": "Men's T-shirt",
+    "image": "https://placehold.co/180x120?text=Men's+T-shirt",
+    "price": 25,
+    "rating": 4.2,
+    "category": "Clothing",
+    "categoryId": "cat004"
+  },
+  {
+    "productId": "prd017",
+    "name": "Women's Dress",
+    "image": "https://placehold.co/180x120?text=Women's+Dress",
+    "price": 40,
+    "rating": 4.7,
+    "category": "Clothing",
+    "categoryId": "cat004"
+  },
+  {
+    "productId": "prd018",
+    "name": "Denim Jeans",
+    "image": "https://placehold.co/180x120?text=Denim+Jeans",
+    "price": 35,
+    "rating": 4.3,
+    "category": "Clothing",
+    "categoryId": "cat004"
+  },
+  {
+    "productId": "prd019",
+    "name": "Jacket",
+    "image": "https://placehold.co/180x120?text=Jacket",
+    "price": 68,
+    "rating": 4.1,
+    "category": "Clothing",
+    "categoryId": "cat004"
+  },
+  {
+    "productId": "prd020",
+    "name": "Kids Shorts",
+    "image": "https://placehold.co/180x120?text=Kids+Shorts",
+    "price": 22,
+    "rating": 4.4,
+    "category": "Clothing",
+    "categoryId": "cat004"
+  },
+  {
+    "productId": "prd021",
+    "name": "Football",
+    "image": "https://placehold.co/180x120?text=Football",
+    "price": 38,
+    "rating": 4.7,
+    "category": "Sports",
+    "categoryId": "cat005"
+  },
+  {
+    "productId": "prd022",
+    "name": "Yoga Mat",
+    "image": "https://placehold.co/180x120?text=Yoga+Mat",
+    "price": 15,
+    "rating": 4.2,
+    "category": "Sports",
+    "categoryId": "cat005"
+  },
+  {
+    "productId": "prd023",
+    "name": "Tennis Racket",
+    "image": "https://placehold.co/180x120?text=Tennis+Racket",
+    "price": 67,
+    "rating": 4.5,
+    "category": "Sports",
+    "categoryId": "cat005"
+  },
+  {
+    "productId": "prd024",
+    "name": "Water Bottle",
+    "image": "https://placehold.co/180x120?text=Water+Bottle",
+    "price": 10,
+    "rating": 4.0,
+    "category": "Sports",
+    "categoryId": "cat005"
+  },
+  {
+    "productId": "prd025",
+    "name": "Dumbbells Set",
+    "image": "https://placehold.co/180x120?text=Dumbbells+Set",
+    "price": 45,
+    "rating": 4.6,
+    "category": "Sports",
+    "categoryId": "cat005"
+  },
+  {
+    "productId": "prd026",
+    "name": "Face Cream",
+    "image": "https://placehold.co/180x120?text=Face+Cream",
+    "price": 18,
+    "rating": 4.5,
+    "category": "Beauty",
+    "categoryId": "cat006"
+  },
+  {
+    "productId": "prd027",
+    "name": "Lipstick Set",
+    "image": "https://placehold.co/180x120?text=Lipstick+Set",
+    "price": 35,
+    "rating": 4.7,
+    "category": "Beauty",
+    "categoryId": "cat006"
+  },
+  {
+    "productId": "prd028",
+    "name": "Hair Shampoo",
+    "image": "https://placehold.co/180x120?text=Hair+Shampoo",
+    "price": 25,
+    "rating": 4.3,
+    "category": "Beauty",
+    "categoryId": "cat006"
+  },
+  {
+    "productId": "prd029",
+    "name": "Perfume",
+    "image": "https://placehold.co/180x120?text=Perfume",
+    "price": 55,
+    "rating": 4.4,
+    "category": "Beauty",
+    "categoryId": "cat006"
+  },
+  {
+    "productId": "prd030",
+    "name": "Moisturizer",
+    "image": "https://placehold.co/180x120?text=Moisturizer",
+    "price": 29,
+    "rating": 4.2,
+    "category": "Beauty",
+    "categoryId": "cat006"
+  }
+]

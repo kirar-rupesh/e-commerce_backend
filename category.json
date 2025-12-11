@@ -1,0 +1,26 @@
+[
+  {
+    "categoryId": "cat001",
+    "name": "Electronics"
+  },
+  {
+    "categoryId": "cat002",
+    "name": "Books"
+  },
+  {
+    "categoryId": "cat003",
+    "name": "Home Appliances"
+  },
+  {
+    "categoryId": "cat004",
+    "name": "Clothing"
+  },
+  {
+    "categoryId": "cat005",
+    "name": "Sports"
+  },
+  {
+    "categoryId": "cat006",
+    "name": "Beauty"
+  }
+]

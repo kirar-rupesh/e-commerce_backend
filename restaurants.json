@@ -1,0 +1,33 @@
+[   
+    {
+  "name": "Somi",
+  "cuisine": ["Greek"],
+  "location": "11 Main Road, Gem",
+  "rating": 4.3,
+  "reviews": [],
+  "website": "https://somi-example.com",
+  "phoneNumber": "+1234997390",
+  "openHours": "Tue-Sun: 11:00 AM - 10:00 PM",
+  "priceRange": "$$ (11-30)",
+  "reservationsNeeded": false,
+  "isDeliveryAvailable": true,
+  "menuUrl": "https://somi-example.com/menu",
+  "photos": ["https://example.com/somi-photo1.jpg", "https://example.com/somi-photo2.jpg"]
+},
+
+{
+  "name": "Pasta Palace",
+  "cuisine": ["Italian"],
+  "location": "22 Olive Street, Gem",
+  "rating": 4.5,
+  "reviews": [],
+  "website": "https://pastapalace-example.com",
+  "phoneNumber": "+1234997391",
+  "openHours": "Mon-Sat: 12:00 PM - 11:00 PM",
+  "priceRange": "$$ (11-30)",
+  "reservationsNeeded": true,
+  "isDeliveryAvailable": false,
+  "menuUrl": "https://pastapalace-example.com/menu",
+  "photos": ["https://example.com/pasta-photo1.jpg", "https://example.com/pasta-photo2.jpg"]
+}
+]
